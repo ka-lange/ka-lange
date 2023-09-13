@@ -1,5 +1,6 @@
-<h1 style="text-align: center;">Hi, I'm Karissa!</h1>
-<h4 style="text-align: center;">full stack designer, creator, and developer</h4>
+<h1 align='center'">Hi, I'm Karissa!</h1>
+<h4 align='center'">A full stack designer, creator, and developer</h4>
+
 I am passionate about the environment, early-education, and art, and I like to use my wide skillset to create fun, user-friendly and responsive web applications 💻
 
 ### Who am I?
@@ -32,8 +33,6 @@ Find me on Twitter: [![twitter][twitter-shield]][twitter-url]
 
 Connect on Linked In: [![linkedIn][linkedin-shield]][linkedin-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -52,5 +51,4 @@ Connect on Linked In: [![linkedIn][linkedin-shield]][linkedin-url]
 
 [ejs-shield]:https://img.shields.io/badge/EJS-100000?style=for-the-badge&logo=EJS&logoColor=white&labelColor=B8C972&color=B8C972
 [ejs-url]:https://ejs.co/
----
-[![](https://visitcount.itsvg.in/api?id=ka-lange&icon=0&color=0)](https://visitcount.itsvg.in)
+
