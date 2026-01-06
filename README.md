@@ -1,19 +1,6 @@
 <h1 align='center'">Hi, I'm Karissa!</h1>
 <h4 align='center'">A full stack designer, creator, and developer</h4>
 
-I am passionate about the environment, early-education, and art, and I like to use my wide skillset to create fun, user-friendly and responsive web applications 💻
-
-### Who am I?
-🐞  I started an outdoor nature preschool and taught environmental education
-<br/>
-🤸🏼‍♀️ I am a former gymnast and competitive gymnastics coach
-<br/>
-🎥 I enjoy photo, video, and sound editing
-<br/>
-🧶 When I'm not working on my projects, I am usually playing video games or knitting socks
-<br/>
-🦎  I have a leopard gecko named Gordon!
-
 
 
 ### What I work with:
@@ -23,29 +10,8 @@ I am passionate about the environment, early-education, and art, and I like to u
 
 
 
-## Contact Me
-
-View my Portfolio: [![portfolio][portfolio-shield]][portfolio-url]
-
-Shoot me an Email: ka.lange266@gmail.com
-
-Find me on Twitter: [![twitter][twitter-shield]][twitter-url]
-
-Connect on Linked In: [![linkedIn][linkedin-shield]][linkedin-url]
 
 
-
-
-
-
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/ka-lange/
-
-[twitter-shield]: https://img.shields.io/badge/@kl2662-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
-[twitter-url]: https://twitter.com/kl2662
-
-[portfolio-shield]:https://img.shields.io/badge/PORTFOLIO-100000?style=for-the-badge&logo=Portfolio&logoColor=white&labelColor=FFFDFC&color=C77D4F
-[portfolio-url]: https://karissa-lange.netlify.app/
 
 [email-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
